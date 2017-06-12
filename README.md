@@ -92,10 +92,10 @@ completed, save the **environment_id** and **collection_id**.
 </p>
 
 ## 5. Configure Slack
+Create a new slack group/team or use an existing slack group/team if you have sufficient authorization to add a new bot
 
-Create a new slack group/team or use an existing one if you have sufficient authorization to add a new bot
-I need to create new Slack Group/Team
-I have sufficient authorization in current Slack team to create Bot’s
+*  I need to create new Slack Group/Team
+*  I have sufficient authorization in current Slack team to create Bot’s
 
 Create a New Slack team
 Here's how to create a new Slack team
