@@ -97,12 +97,12 @@ Create a new slack group/team or use an existing one if you have sufficient auth
 I need to create new Slack Group/Team
 I have sufficient authorization in current Slack team to create Bot’s
 
-Create a Slack team
+Create a New Slack team
 Here's how to create a new Slack team
 ## 1.	Visit the team creation page: (https://slack.com/create)
 ## 2.	Enter your email address. Make sure it's an inbox you can access for the next step!
 <p align="center">
-  <img width="800" height="225" src="doc/source/images/Slack_1.png">
+  <img width="400" height="625" src="doc/source/images/Slack_1.png">
 </p>
 
 [Create a slack group](https://slack.com/create) or use an existing one if you
