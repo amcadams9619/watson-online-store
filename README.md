@@ -112,6 +112,13 @@ Create a New Slack team
   <img width="400" height="300" src="doc/source/images/Slack_2.png">
 </p>
 
+*  Go Back to your browser and enter in conformation code you received in email
+*  Slack will send a confirmation code to the email address you entered.
+
+<p align="center">
+  <img width="400" height="300" src="doc/source/images/Slack_2.png">
+</p>
+
 [Create a slack group](https://slack.com/create) or use an existing one if you
 have sufficient authorization. (Refer to [Slack's how-to](https://get.slack.help/hc/en-us/articles/206845317-Create-a-Slack-team)
 on creating new groups.) To add a new bot, go to the Slack group’s application settings
