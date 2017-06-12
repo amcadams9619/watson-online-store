@@ -99,14 +99,13 @@ Create a new slack team or use an existing slack team if you have sufficient aut
 
 Create a New Slack team
 
-1.	Visit the team creation page: (https://slack.com/create)
-2.	Enter your email address
+*  Visit the team creation page: (https://slack.com/create)
+*  Enter your email address
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_1.png">
 </p>
-3.  Hit Next
-4.  Slack will send a confirmation code to the email address you entered.
-
+*  Hit Next
+*  Slack will send a confirmation code to the email address you entered.
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_2.png">
 </p>
