@@ -98,7 +98,7 @@ Create a new slack team or use an existing slack team if you have sufficient aut
 *  I have sufficient authorization in current Slack team to create Bot’s
 
 Create a New Slack team
-Here's how to create a new Slack team
+
 1.	Visit the team creation page: (https://slack.com/create)
 2.	Enter your email address. Make sure it's an inbox you can access for the next step!
 <p align="center">
