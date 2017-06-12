@@ -3,7 +3,7 @@
 
 # Creating a Retail Chatbot using Watson Conversation, Discovery and Database Services
 
-In this developer journey we will create a Watson Conversation based chatbot
+In this alan's developer journey we will create a Watson Conversation based chatbot
 that allows a user to: 1) find items to purchase using Watson Discovery, and
 2) add and remove items from their cart by updating a Cloudant NoSQL Database.
 
@@ -92,6 +92,18 @@ completed, save the **environment_id** and **collection_id**.
 </p>
 
 ## 5. Configure Slack
+
+Create a new slack group/team or use an existing one if you have sufficient authorization to add a new bot
+I need to create new Slack Group/Team
+I have sufficient authorization in current Slack team to create Bot’s
+
+Create a Slack team
+Here's how to create a new Slack team
+## 1.	Visit the team creation page: (https://slack.com/create)
+## 2.	Enter your email address. Make sure it's an inbox you can access for the next step!
+<p align="center">
+  <img width="800" height="225" src="doc/source/images/Slack_1.png">
+</p>
 
 [Create a slack group](https://slack.com/create) or use an existing one if you
 have sufficient authorization. (Refer to [Slack's how-to](https://get.slack.help/hc/en-us/articles/206845317-Create-a-Slack-team)
@@ -227,4 +239,3 @@ service will be tracked.
 
 To disable tracking, simply remove ``cf_deployment_tracker.track()`` from the
 ``run.py`` file in the top level directory.
-
