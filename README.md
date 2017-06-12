@@ -106,8 +106,8 @@ Create a New Slack team
 </p>
 
 *  Hit Next
-
 *  Slack will send a confirmation code to the email address you entered.
+
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_2.png">
 </p>
