@@ -101,11 +101,11 @@ Create a New Slack team
 
 *  Visit the team creation page: (https://slack.com/create)
 *  Enter your email address
+*  Hit Next
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_1.png">
 </p>
 
-*  Hit Next
 *  Slack will send a confirmation code to the email address you entered.
 
 <p align="center">
@@ -131,7 +131,7 @@ Create a New Slack team
 </p>
 
 
-*  From the Welcome page select "Skip the Tutorial
+*  From the Welcome page select "Skip the Tutorial"
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_7.png">
 </p>
