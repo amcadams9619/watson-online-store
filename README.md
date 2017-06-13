@@ -128,13 +128,13 @@ Create a New Slack team
   <img width="400" height="300" src="doc/source/images/Slack_6.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  Select Create Team
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_7.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  G
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_8.png">
