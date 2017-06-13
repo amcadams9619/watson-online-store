@@ -135,12 +135,9 @@ Create a New Slack team
 </p>
 *  From the Welcome page select "Skip the Tutorial"
 
-
-
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_9.png">
 </p>
-
 
 *  Go Back to your browser and enter in the conformation code you received in your email
 
