@@ -118,6 +118,36 @@ Create a New Slack team
   <img width="400" height="300" src="doc/source/images/Slack_3.png">
 </p>
 
+*  Follow the directions on the next set of each page. You’ll have a chance to select a username, team name, and password.
+*  Once completed you will be taken to team home page as show below.
+
+<p align="center">
+  <img width="400" height="300" src="doc/source/images/Slack_5.png">
+</p>
+
+*  Select 
+
+<p align="center">
+  <img width="400" height="300" src="doc/source/images/Slack_6.png">
+</p>
+
+*  Go Back to your browser and enter in the conformation code you received in your email
+
+<p align="center">
+  <img width="400" height="300" src="doc/source/images/Slack_7.png">
+</p>
+
+*  Go Back to your browser and enter in the conformation code you received in your email
+
+<p align="center">
+  <img width="400" height="300" src="doc/source/images/Slack_8.png">
+</p>
+
+*  Go Back to your browser and enter in the conformation code you received in your email
+
+<p align="center">
+  <img width="400" height="300" src="doc/source/images/Slack_9.png">
+</p>
 [Create a slack group](https://slack.com/create) or use an existing one if you
 have sufficient authorization. (Refer to [Slack's how-to](https://get.slack.help/hc/en-us/articles/206845317-Create-a-Slack-team)
 on creating new groups.) To add a new bot, go to the Slack group’s application settings
