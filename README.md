@@ -95,6 +95,7 @@ completed, save the **environment_id** and **collection_id**.
 Create a new slack team or use an existing slack team if you have sufficient authorization to add or create a new bot
 
 *  I need to create new Slack Team
+*  [Clone the repo](#1-clone-the-repo)
 *  I have sufficient authorization in current Slack team to create Bot’s
 
 Create a New Slack team
