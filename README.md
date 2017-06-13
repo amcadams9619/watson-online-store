@@ -124,26 +124,25 @@ Create a New Slack team
   <img width="400" height="300" src="doc/source/images/Slack_5.png">
 </p>
 
+
+*  Select Create Team
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_6.png">
 </p>
 
-*  Select Create Team
 
+*  From the Welcome page select "Skip the Tutorial
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_7.png">
 </p>
-*  From the Welcome page select "Skip the Tutorial
 
 *  From your Team home page click on your username and select 'Apps & Integrations" from the menu.
-
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_9.png">
 </p>
 
 
 *  Type in Bots in the search field and select "Connect a bot to the Slack Realtime Messaging API"
-
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_10.png">
 </p>
@@ -155,7 +154,6 @@ Create a New Slack team
 
 *  Enter a "Username"
 *  Click "Add Bot Integration" Button 
-
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_12.png">
 </p>
@@ -172,7 +170,6 @@ Create a New Slack team
 
 *  Select a Channel from Team home page
 *  Run `/invite <botame>`in a channel to invite the bot, or message it directly.
-
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_15.png">
 </p>
