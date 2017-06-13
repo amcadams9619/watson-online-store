@@ -94,7 +94,7 @@ completed, save the **environment_id** and **collection_id**.
 ## 5. Configure Slack
 Create a new slack team or use an existing slack team if you have sufficient authorization to add or create a new bot
 
-*  I need to create new Slack Group/Team
+*  I need to create new Slack Team
 *  I have sufficient authorization in current Slack team to create Bot’s
 
 Create a New Slack team
@@ -112,7 +112,7 @@ Create a New Slack team
   <img width="400" height="300" src="doc/source/images/Slack_2.png">
 </p>
 
-*  Go Back to your browser and enter in conformation code you received in email
+*  Go Back to your browser and enter in the conformation code you received in your email
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_3.png">
