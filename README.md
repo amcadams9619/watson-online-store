@@ -161,16 +161,16 @@ Create a New Slack team
 *  Click "Add Bot Integration" Button 
 
 <p align="center">
-  <img width="400" height="300" src="doc/source/images/Slack_13.png">
+  <img width="700" height="200" src="doc/source/images/Slack_13.png">
 </p>
 
 *  Copy the API Token that was generated to a file (NotePad)
 
 <p align="center">
-  <img width="400" height="300" src="doc/source/images/Slack_14.png">
+  <img width="200" height="55" src="doc/source/images/Slack_14.png">
 </p>
 
-*  Click on the "Save Configuration" Button
+*  Click on the "Save Integration" Button
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_15.png">
