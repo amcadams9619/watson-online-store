@@ -133,13 +133,12 @@ Create a New Slack team
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_7.png">
 </p>
-
 *  From the Welcome page select "Skip the Tutorial"
 
 
 
 <p align="center">
-  <img width="400" height="300" src="doc/source/images/Slack_8.png">
+  <img width="400" height="300" src="doc/source/images/Slack_9.png">
 </p>
 
 
