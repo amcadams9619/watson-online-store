@@ -166,17 +166,16 @@ Create a New Slack team
 
 *  Copy the API Token that was generated to a file (NotePad)
 
+*  Click on the "Save Integration" Button
 <p align="center">
   <img width="200" height="55" src="doc/source/images/Slack_14.png">
 </p>
-
-*  Click on the "Save Integration" Button
 
 *  Select a Channel from Team home page
 *  Run `/invite <botame>`in a channel to invite the bot, or message it directly.
 
 <p align="center">
-  <img width="400" height="125" src="doc/source/images/Slack_15.png">
+  <img width="400" height="300" src="doc/source/images/Slack_15.png">
 </p>
 
 ## 6. Run the application
