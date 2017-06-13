@@ -172,25 +172,11 @@ Create a New Slack team
 
 *  Click on the "Save Integration" Button
 
-<p align="center">
-  <img width="400" height="300" src="doc/source/images/Slack_15.png">
-</p>
-
-[Create a slack group](https://slack.com/create) or use an existing one if you
-have sufficient authorization. (Refer to [Slack's how-to](https://get.slack.help/hc/en-us/articles/206845317-Create-a-Slack-team)
-on creating new groups.) To add a new bot, go to the Slack group’s application settings
-by navigating to `https://<slack_group>.slack.com/apps/manage` and selecting the
-**Custom Integrations** menu on the left.
-
-![](doc/source/images/manage_slack_settings.png)
-
-Give the bot a fun name. Once created save the **API Token** that is generated
-![](doc/source/images/view_bot_token.png)
-
+Select a Channel from Team home page
 Run `/invite <botame>` in a channel to invite the bot, or message it directly.
 
 <p align="center">
-  <img width="400" height="125" src="doc/source/images/invite_bot.png">
+  <img width="400" height="125" src="doc/source/images/Slack_15">
 </p>
 
 ## 6. Run the application
