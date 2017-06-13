@@ -139,7 +139,7 @@ Create a New Slack team
   <img width="400" height="300" src="doc/source/images/Slack_9.png">
 </p>
 
-*  From your Team home page click on your username and select 'Apps & Integration" from the menu.
+*  From your Team home page click on your username and select 'Apps & Integrations" from the menu.
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_10.png">
@@ -151,25 +151,26 @@ Create a New Slack team
   <img width="400" height="300" src="doc/source/images/Slack_11.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  Select "Add Configuration"
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_12.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  Enter a "Username"
+*  Click "Add Bot Integration" Button 
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_13.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  Copy the API Token that was generated to a file (NotePad)
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_14.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  Click on the "Save Configuration" Button
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_15.png">
