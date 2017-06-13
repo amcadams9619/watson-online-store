@@ -133,19 +133,19 @@ Create a New Slack team
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_7.png">
 </p>
-*  From the Welcome page select "Skip the Tutorial"
+*  From the Welcome page select "Skip the Tutorial
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_9.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  From your Team home page click on your username and select 'Apps & Integration" from the menu.
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_10.png">
 </p>
 
-*  Go Back to your browser and enter in the conformation code you received in your email
+*  Type in Bots in the search field and select "Connect a bot to the Slack Realtime Messaging API"
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_11.png">
