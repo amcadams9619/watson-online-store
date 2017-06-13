@@ -135,36 +135,35 @@ Create a New Slack team
 </p>
 *  From the Welcome page select "Skip the Tutorial
 
+*  From your Team home page click on your username and select 'Apps & Integrations" from the menu.
+
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_9.png">
 </p>
 
-*  From your Team home page click on your username and select 'Apps & Integrations" from the menu.
+
+*  Type in Bots in the search field and select "Connect a bot to the Slack Realtime Messaging API"
 
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_10.png">
 </p>
 
-*  Type in Bots in the search field and select "Connect a bot to the Slack Realtime Messaging API"
-
+*  Select "Add Configuration"
 <p align="center">
   <img width="400" height="300" src="doc/source/images/Slack_11.png">
-</p>
-
-*  Select "Add Configuration"
-
-<p align="center">
-  <img width="400" height="300" src="doc/source/images/Slack_12.png">
 </p>
 
 *  Enter a "Username"
 *  Click "Add Bot Integration" Button 
 
 <p align="center">
-  <img width="700" height="200" src="doc/source/images/Slack_13.png">
+  <img width="400" height="300" src="doc/source/images/Slack_12.png">
 </p>
 
 *  Copy the API Token that was generated to a file (NotePad)
+<p align="center">
+  <img width="700" height="200" src="doc/source/images/Slack_13.png">
+</p>
 
 *  Click on the "Save Integration" Button
 <p align="center">
