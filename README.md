@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/IBM/watson-online-store.svg?branch=master)](https://travis-ci.org/IBM/watson-online-store)
 ![Bluemix Deployments](https://deployment-tracker.mybluemix.net/stats/5fd641e32af04e4adb16f26c46de3587/badge.svg)
 
-# Creating a Retail Chatbot using Watson Conversation, Discovery and Database Services
+# Creating a Retail Chatbot in Slack using Watson Conversation, Discovery and Database Services
 
-In this alan's developer journey we will create a Watson Conversation based chatbot
+In this developer journey we will create a Watson Conversation based chatbot
 that allows a user to: 1) find items to purchase using Watson Discovery, and
 2) add and remove items from their cart by updating a Cloudant NoSQL Database.
 
